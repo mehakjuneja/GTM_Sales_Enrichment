@@ -1,0 +1,327 @@
+timestamp,name,email,company,property_address,city,state,country,temperature,weather_description,median_income,population,percent_renters,score,score_category,insights,outreach_message
+2025-10-10 21:04:39.739120,Test User,test@example.com,Test Company,123 Test St,Test City,TS,USA,70,sunny,60000,100000,40.0,75,🟢 High,test insights,test message
+2025-10-10 21:06:05.004358,Jennifer Smith,jennifer@torontoproperties.ca,Toronto Properties Inc,369 Bay Street,Toronto,ON,Canada,57,Light Intensity Shower Rain,55000,5000000,40.0,80,🟢 High,"moderate rental market, middle-income area, temperate climate","Hi Jennifer Smith,
+
+Hope the Light Intensity Shower Rain weather in Toronto is treating you well!
+
+I noticed Toronto Properties Inc manages properties in an area with a moderate rental market — there's solid potential for enhancing resident engagement.
+
+At EliseAI, we help property managers automate communications and save time while improving resident satisfaction.
+
+Would you be interested in a short conversation about how we could help streamline your resident communications?
+
+Best,
+[Your Name]
+EliseAI"
+2025-10-10 21:07:06.356564,James Wilson,james@londonliving.co.uk,London Living PropertiesLondon Living Properties,741 Oxford Street,London,England,UK,52,Overcast Clouds,55000,5000000,40.0,80,🟢 High,"moderate rental market, middle-income area, temperate climate","Hello James Wilson,
+
+Hope the Overcast Clouds weather in London is treating you well!
+
+Operating in a moderate rental market gives London Living PropertiesLondon Living Properties the chance to stand out with exceptional resident services.
+
+EliseAI specializes in helping property managers streamline resident communications and reduce administrative overhead.
+
+Would you be interested in a short conversation about how we could help streamline your resident communications?
+
+Looking forward to connecting,
+[Your Name]
+EliseAI"
+2025-10-10 21:22:05.694830,Michael Rodriguez,michael@seattleliving.com,Seattle Living Properties,456 Pine Street,Seattle,WA,USA,56,Broken Clouds,75000,7700000,50.0,85,🟢 High,"moderate rental market, middle-income area, temperate climate","Hi there Michael Rodriguez,
+
+How's the Broken Clouds weather treating you in Seattle?
+
+With Seattle Living Properties in a moderate rental market, there are good opportunities to differentiate through superior resident communication.
+
+We at EliseAI help property management companies enhance resident engagement through intelligent communication automation.
+
+Could we schedule a quick call to discuss how EliseAI might fit into your property management strategy?
+
+Best,
+[Your Name]
+EliseAI"
+2025-10-10 21:23:38.061850,Sarah Johnson,sarah@austinrentals.com,Austin Rentals LLC,789 South Lamar,Austin,TX,USA,79,Clear Sky,60000,29000000,40.0,90,🟢 High,"moderate rental market, middle-income area, temperate climate","Hi there Sarah Johnson,
+
+Enjoying the Clear Sky weather in Austin?
+
+Operating in a moderate rental market gives Austin Rentals LLC the chance to stand out with exceptional resident services.
+
+EliseAI provides property managers with tools to automate routine communications and focus on what matters most.
+
+Would you be interested in a short conversation about how we could help streamline your resident communications?
+
+Best,
+[Your Name]
+EliseAI"
+2025-10-10 21:25:15.766384,Amanda Wilson,amanda@phoenixliving.com,Phoenix Living,147 Camelback Road,Phoenix,AZ,USA,82,Overcast Clouds,55000,7200000,40.0,80,🟢 High,"moderate rental market, middle-income area, warm climate","Hello Amanda Wilson,
+
+Hope you're enjoying the Overcast Clouds weather in Phoenix!
+
+With Phoenix Living in a moderate rental market, there are good opportunities to differentiate through superior resident communication.
+
+EliseAI specializes in helping property managers streamline resident communications and reduce administrative overhead.
+
+I'd love to schedule a brief call to explore how EliseAI could benefit your operations.
+
+Thanks for your time,
+[Your Name]
+EliseAI"
+2025-10-11 14:02:04.547747,Robert Brown,robert@motorcityproperties.com,Motor City Properties,258 Woodward Avenue,Detroit,MI,USA,65,mild,55000,10000000,45.0,85,🟢 High,"moderate rental market, middle-income area, temperate climate","Hello Robert Brown,
+
+Enjoying the mild weather in Detroit?
+
+Operating in a moderate rental market gives Motor City Properties the chance to stand out with exceptional resident services.
+
+At EliseAI, we help property managers automate communications and save time while improving resident satisfaction.
+
+Would you be open to a quick chat this week to discuss how we might help?
+
+Looking forward to connecting,
+[Your Name]
+EliseAI"
+2025-10-11 18:23:20.006492,Christopher Lee,chris@maliburentals.com,Malibu Rental Solutions,456 Pacific Coast Highway,Malibu,CA,USA,81,Overcast Clouds,75000,39500000,50.0,85,🟢 High,"moderate rental market, middle-income area, warm climate","Hi Christopher Lee,
+
+How's the cloudy weather treating you in Malibu?
+
+Operating in a moderate rental market gives Malibu Rental Solutions the chance to stand out with exceptional resident services.
+
+EliseAI provides property managers with tools to automate routine communications and focus on what matters most.
+
+I'd love to schedule a brief call to explore how EliseAI could benefit your operations.
+
+Looking forward to connecting,
+[Your Name]
+EliseAI"
+2025-10-11 18:24:22.205671,Brian Wilson,brian@annarborstudenthousing.com,Ann Arbor Student Housing,147 South University Avenue,Ann Arbor,MI,USA,56,Few Clouds,55000,10000000,45.0,80,🟢 High,"moderate rental market, middle-income area, temperate climate","Hello Brian Wilson,
+
+Hope the mostly sunny weather in Ann Arbor is treating you well!
+
+I noticed Ann Arbor Student Housing manages properties in an area with a moderate rental market — there's solid potential for enhancing resident engagement.
+
+At EliseAI, we help property managers automate communications and save time while improving resident satisfaction.
+
+Would you be interested in a short conversation about how we could help streamline your resident communications?
+
+Best,
+[Your Name]
+EliseAI"
+2025-10-11 18:25:18.055389,Joseph Miller,joseph@buffaloproperties.com,Buffalo Properties LLC,147 Main Street,Buffalo,NY,USA,53,Broken Clouds,70000,20000000,55.0,85,🟢 High,"high rental market, middle-income area, temperate climate","Hi Joseph Miller,
+
+Hope you're enjoying the partly cloudy weather in Buffalo!
+
+I noticed Buffalo Properties LLC manages properties in an area with a high rental market — that's a great opportunity for resident engagement and retention.
+
+EliseAI specializes in helping property managers streamline resident communications and reduce administrative overhead.
+
+I'd love to schedule a brief call to explore how EliseAI could benefit your operations.
+
+Looking forward to connecting,
+[Your Name]
+EliseAI"
+2025-10-11 18:26:52.731061,John Davis,john@clevelandproperties.com,Cleveland Property Solutions,852 Euclid Avenue,Cleveland,OH,USA,58,Broken Clouds,55000,11700000,40.0,80,🟢 High,"moderate rental market, middle-income area, temperate climate","Hi John Davis,
+
+Hope the partly cloudy weather in Cleveland is treating you well!
+
+I noticed Cleveland Property Solutions manages properties in an area with a moderate rental market — there's solid potential for enhancing resident engagement.
+
+We at EliseAI help property management companies enhance resident engagement through intelligent communication automation.
+
+I'd love to schedule a brief call to explore how EliseAI could benefit your operations.
+
+Looking forward to connecting,
+[Your Name]
+EliseAI"
+2025-10-11 18:31:11.107213,Alex Lugo,Alex.Lugo@tfc.com,TF CORNERSTONE INC.,387 Park Ave South,New York City,NY,USA,60,mild and variable,70000,20000000,55.0,90,🟢 High,"high rental market, middle-income area, temperate climate","Hi Alex Lugo,
+
+Enjoying the pleasant weather in New York City?
+
+With TF CORNERSTONE INC. operating in a high rental market area, there's tremendous potential for improving resident satisfaction and reducing turnover.
+
+We at EliseAI help property management companies enhance resident engagement through intelligent communication automation.
+
+Would you be open to a quick chat this week to discuss how we might help?
+
+Looking forward to connecting,
+[Your Name]
+EliseAI"
+2025-10-11 18:34:56.818371,Amy Jean,amy.jean@beaconcommunitiesllc.com,Beacon Residential Management,Two Center Plaza Suite 700,Boston,MA,USA,57,Broken Clouds,80000,7000000,50.0,85,🟢 High,"moderate rental market, affluent area, temperate climate","Hello Amy Jean,
+
+Hope you're enjoying the partly cloudy weather in Boston!
+
+With Beacon Residential Management in a moderate rental market, there are good opportunities to differentiate through superior resident communication.
+
+We at EliseAI help property management companies enhance resident engagement through intelligent communication automation.
+
+I'd love to schedule a brief call to explore how EliseAI could benefit your operations.
+
+Looking forward to connecting,
+[Your Name]
+EliseAI"
+2025-10-11 18:40:21.899140,John Doe,john.doe@lastfrontierak.com,Real Property Management Last Frontier,200 W 34th Pmb 1100,Anchorage,AK,USA,45,Broken Clouds,75000,700000,40.0,80,🟢 High,"moderate rental market, middle-income area, temperate climate","Hi John Doe,
+
+How's the partly cloudy weather treating you in Anchorage?
+
+With Real Property Management Last Frontier in a moderate rental market, there are good opportunities to differentiate through superior resident communication.
+
+At EliseAI, we help property managers automate communications and save time while improving resident satisfaction.
+
+Would you be interested in a short conversation about how we could help streamline your resident communications?
+
+Thanks for your time,
+[Your Name]
+EliseAI"
+2025-10-11 19:04:46.528470,Sofia Martinez,sofia@fortlauderdalerentals.com,Fort Lauderdale Rentals,147 Las Olas Boulevard,Fort Lauderdale,FL,USA,81,Broken Clouds,55000,21500000,45.0,50,🟡 Medium,"moderate rental market, middle-income area, warm climate","Hi Sofia Martinez,
+
+Enjoying the partly cloudy weather in Fort Lauderdale?
+
+I noticed Fort Lauderdale Rentals manages properties in an area with a moderate rental market — there's solid potential for enhancing resident engagement.
+
+EliseAI provides property managers with tools to automate routine communications and focus on what matters most.
+
+Could we schedule a quick call to discuss how EliseAI might fit into your property management strategy?
+
+Best,
+[Your Name]
+EliseAI"
+2025-10-11 19:31:31.569687,John Davis,john@levellandpropeties.com,Cleveland Property Solutions,852 Euclid Avenue,Cleveland,OH,USA,57,Broken Clouds,55000,11700000,40.0,50,🟡 Medium,"moderate rental market, middle-income area, temperate climate","Hi John Davis,
+
+Hope the partly cloudy weather in Cleveland is treating you well!
+
+Operating in a moderate rental market gives Cleveland Property Solutions the chance to stand out with exceptional resident services.
+
+We at EliseAI help property management companies enhance resident engagement through intelligent communication automation.
+
+Would you be interested in a short conversation about how we could help streamline your resident communications?
+
+Best regards,
+[Your Name]
+EliseAI"
+2025-10-11 19:33:24.827741,Alexandra Rodriguez,alexandra@beverlyhillsproperties.com,Beverly Hills Property Group,123 Rodeo Drive,Beverly Hills,CA,USA,75,Clear Sky,75000,39500000,50.0,80,🟢 High,"moderate rental market, middle-income area, temperate climate","Hi Alexandra Rodriguez,
+
+Hope the beautiful sunny weather in Beverly Hills is treating you well!
+
+With Beverly Hills Property Group in a moderate rental market, there are good opportunities to differentiate through superior resident communication.
+
+EliseAI provides property managers with tools to automate routine communications and focus on what matters most.
+
+Would you be open to a quick chat this week to discuss how we might help?
+
+Looking forward to connecting,
+[Your Name]
+EliseAI"
+2025-10-11 19:36:41.433816,John Doe,john@company.com,ABC Prop mng,123 Main st,San Francisco,CA,USA,65,Few Clouds,75000,39500000,50.0,80,🟢 High,"moderate rental market, middle-income area, temperate climate","Hi John Doe,
+
+How's the mostly sunny weather treating you in San Francisco?
+
+I noticed ABC Prop mng manages properties in an area with a moderate rental market — there's solid potential for enhancing resident engagement.
+
+We at EliseAI help property management companies enhance resident engagement through intelligent communication automation.
+
+I'd love to schedule a brief call to explore how EliseAI could benefit your operations.
+
+Best regards,
+[Your Name]
+EliseAI"
+2025-10-15 17:11:09.789060,Rachel Davis,rachel@dallasrentals.com,Dallas Rental Solutions,852 Main Street,Dallas,TX,USA,87,Clear Sky,60000,29000000,40.0,50,🟡 Medium,"moderate rental market, middle-income area, warm climate","Hi Rachel Davis,
+
+Hope you're enjoying the beautiful sunny weather in Dallas!
+
+I noticed Dallas Rental Solutions manages properties in an area with a moderate rental market — there's solid potential for enhancing resident engagement.
+
+At EliseAI, we help property managers automate communications and save time while improving resident satisfaction.
+
+I'd love to schedule a brief call to explore how EliseAI could benefit your operations.
+
+Thanks for your time,
+[Your Name]
+EliseAI"
+2025-10-15 18:26:59.118940,Robert Brown,robert@motorcityproperties.com,Motor City Properties,258 Woodward Avenue,Detroit,MI,USA,60,Clear Sky,55000,10000000,45.0,55,🟡 Medium,"moderate rental market, middle-income area, temperate climate","Hi there Robert Brown,
+
+Enjoying the beautiful sunny weather in Detroit?
+
+Operating in a moderate rental market gives Motor City Properties the chance to stand out with exceptional resident services.
+
+EliseAI specializes in helping property managers streamline resident communications and reduce administrative overhead.
+
+Would you be open to a quick chat this week to discuss how we might help?
+
+Best regards,
+[Your Name]
+EliseAI"
+2025-10-15 19:18:43.409517,Joseph Miller,joseph@buffaloproperties.com,Buffalo Preoperies LLC,147 Main Street,Buffalo,NY,USA,48,Few Clouds,70000,20000000,55.0,60,🟡 Medium,"high rental market, middle-income area, temperate climate","Hi there Joseph Miller,
+
+Hope the mostly sunny weather in Buffalo is treating you well!
+
+I noticed Buffalo Preoperies LLC manages properties in an area with a high rental market — that's a great opportunity for resident engagement and retention.
+
+EliseAI specializes in helping property managers streamline resident communications and reduce administrative overhead.
+
+Would you be interested in a short conversation about how we could help streamline your resident communications?
+
+Looking forward to connecting,
+[Your Name]
+EliseAI"
+2025-10-15 19:38:16.490111,Joseph Miller,joseph@buffaloproperties.com,Buffalo Properties LLC,147 Main Street,Buffalo,NY,USA,60,mild and variable,70000,20000000,55.0,75,🟢 High,"high rental market, middle-income area, temperate climate","Hello Joseph Miller,
+
+Hope the pleasant weather in Buffalo is treating you well!
+
+Managing properties in a high rental market like yours presents unique opportunities for streamlining communications and operations.
+
+EliseAI provides property managers with tools to automate routine communications and focus on what matters most.
+
+Would you be interested in a short conversation about how we could help streamline your resident communications?
+
+Best regards,
+[Your Name]
+EliseAI"
+2025-10-15 23:35:56.966021,Patricia WIlliams,patricia@annarborrentals.com,Ann Arbor Rentals,741 State Street,Ann Arbor,MI,USA,65,mild,55000,10000000,45.0,60,🟡 Medium,"moderate rental market, middle-income area, temperate climate","Hi there Patricia WIlliams,
+
+Enjoying the pleasant weather in Ann Arbor?
+
+Operating in a moderate rental market gives Ann Arbor Rentals the chance to stand out with exceptional resident services.
+
+EliseAI provides property managers with tools to automate routine communications and focus on what matters most.
+
+Would you be open to a quick chat this week to discuss how we might help?
+
+Thanks for your time,
+[Your Name]
+EliseAI"
+2025-10-16 00:09:32.431017,Joseph Miller,Joseph@buffaloproperties.com,Buffalo Properties LLC,147 Main Street,Buffalo,NY,USA,60,mild and variable,70000,20000000,55.0,75,🟢 High,"high rental market, middle-income area, temperate climate","Hi Joseph Miller,
+
+Hope the pleasant weather in Buffalo is treating you well!
+
+With Buffalo Properties LLC operating in a high rental market area, there's tremendous potential for improving resident satisfaction and reducing turnover.
+
+We at EliseAI help property management companies enhance resident engagement through intelligent communication automation.
+
+Would you be interested in a short conversation about how we could help streamline your resident communications?
+
+Best,
+[Your Name]
+EliseAI"
+2025-10-27 13:57:04.286425,Sarah Johnson,sarah@metrorentals.com,Metro Rentals LLC,456 Oak Ave,Austin,TX,USA,75,warm and sunny,60000,29000000,40.0,65,🟡 Medium,"moderate rental market, middle-income area, temperate climate","Hi there Sarah Johnson,
+
+Hope the sunny weather in Austin is treating you well!
+
+I noticed Metro Rentals LLC manages properties in an area with a moderate rental market — there's solid potential for enhancing resident engagement.
+
+EliseAI specializes in helping property managers streamline resident communications and reduce administrative overhead.
+
+I'd love to schedule a brief call to explore how EliseAI could benefit your operations.
+
+Best regards,
+[Your Name]
+EliseAI"
+2025-10-27 14:14:48.682882,Joseph Miller,joseph@buffaloproperties.com,Buffalo Properties LLC,147 Main Street,Buffalo,NY,USA,60,mild and variable,70000,20000000,55.0,75,🟢 High,"high rental market, middle-income area, temperate climate","Hi Joseph Miller,
+
+Enjoying the pleasant weather in Buffalo?
+
+Managing properties in a high rental market like yours presents unique opportunities for streamlining communications and operations.
+
+At EliseAI, we help property managers automate communications and save time while improving resident satisfaction.
+
+Would you be interested in a short conversation about how we could help streamline your resident communications?
+
+Looking forward to connecting,
+[Your Name]
+EliseAI"

@@ -1,0 +1,41 @@
+# Lead Enrichment App - Environment Variables Template
+# Copy this file to .env and fill in your actual values
+
+# API Keys for Data Enrichment
+# OpenWeather API Key (for real weather data)
+# Get your free API key at: https://openweathermap.org/api
+OPENWEATHER_API_KEY=your_openweather_api_key_here
+
+# DataUSA API Key (optional - basic usage doesn't require a key)
+# Get your API key at: https://datausa.io/about/api/
+DATAUSA_API_KEY=your_datausa_api_key_here
+
+# OpenAI API Key (for AI-powered message generation)
+# Get your API key at: https://platform.openai.com/api-keys
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Email Configuration (for automated outreach to high-priority leads)
+# Gmail SMTP Configuration
+SENDER_EMAIL=your_email@gmail.com
+SENDER_PASSWORD=your_app_password_here
+SENDER_NAME=Sales Team
+SMTP_SERVER=smtp.gmail.com
+SMTP_PORT=587
+
+# Alternative SMTP configurations:
+# For Outlook/Hotmail:
+# SMTP_SERVER=smtp-mail.outlook.com
+# SMTP_PORT=587
+
+# For Yahoo:
+# SMTP_SERVER=smtp.mail.yahoo.com
+# SMTP_PORT=587
+
+# For custom SMTP:
+# SMTP_SERVER=your_smtp_server.com
+# SMTP_PORT=587
+
+# Note: For Gmail, you need to:
+# 1. Enable 2-Factor Authentication
+# 2. Generate an App Password (not your regular password)
+# 3. Use the App Password in SENDER_PASSWORD

@@ -1,0 +1,27 @@
+timestamp,name,email,company,property_address,city,state,country,temperature,weather_description,median_income,population,percent_renters,score,score_category,insights,outreach_message
+2024-01-15 10:30:00,John Smith,john@abcproperties.com,ABC Property Management,123 Main St,San Francisco,CA,USA,65,Cloudy,85000,870000,55.2,78,🟢 High,"high rental market, affluent area, temperate climate","Hi John,
+
+Hope you're enjoying the Cloudy weather in San Francisco!
+
+I noticed ABC Property Management manages properties in an area with a high rental market — that's a great opportunity for resident engagement and retention.
+
+At EliseAI, we help property managers automate communications and save time while improving resident satisfaction.
+
+Would you be open to a quick chat this week to discuss how we might help?
+
+Best regards,
+[Your Name]
+EliseAI"
+2024-01-15 11:15:00,Sarah Johnson,sarah@metrorentals.com,Metro Rentals LLC,456 Oak Ave,Austin,TX,USA,75,Sunny,65000,950000,48.7,72,🟢 High,"moderate rental market, middle-income area, warm climate","Hello Sarah,
+
+How's the Sunny weather treating you in Austin?
+
+I noticed Metro Rentals LLC manages properties in an area with a moderate rental market — there's solid potential for enhancing resident engagement.
+
+EliseAI specializes in helping property managers streamline resident communications and reduce administrative overhead.
+
+I'd love to schedule a brief call to explore how EliseAI could benefit your operations.
+
+Looking forward to connecting,
+[Your Name]
+EliseAI"

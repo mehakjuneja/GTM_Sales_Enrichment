@@ -1,0 +1,144 @@
+LEAD ENRICHMENT SYSTEM ARCHITECTURE DIAGRAM
+=====================================
+
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                           PRESENTATION LAYER                                    │
+│  ┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐                │
+│  │   Lead Input    │  │   Dashboard     │  │   Settings      │                │
+│  │   Form          │  │   Analytics     │  │   Configuration │                │
+│  └─────────────────┘  └─────────────────┘  └─────────────────┘                │
+│           │                     │                     │                        │
+│           └─────────────────────┼─────────────────────┘                        │
+│                                 │                                              │
+│                    ┌─────────────────┐                                        │
+│                    │   Streamlit     │                                        │
+│                    │   Web Interface │                                        │
+│                    └─────────────────┘                                        │
+└─────────────────────────────────────────────────────────────────────────────────┘
+                                    │
+                                    ▼
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                        BUSINESS LOGIC LAYER                                     │
+│  ┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐                │
+│  │   Lead Scoring  │  │   Outreach      │  │   Email         │                │
+│  │   Algorithm     │  │   Generation    │  │   Automation    │                │
+│  │   (Multi-factor)│  │   (AI-powered)  │  │   (Multi-channel)│                │
+│  └─────────────────┘  └─────────────────┘  └─────────────────┘                │
+│           │                     │                     │                        │
+│           └─────────────────────┼─────────────────────┘                        │
+│                                 │                                              │
+│                    ┌─────────────────┐                                        │
+│                    │   Core Engine   │                                        │
+│                    │   (Python)      │                                        │
+│                    └─────────────────┘                                        │
+└─────────────────────────────────────────────────────────────────────────────────┘
+                                    │
+                                    ▼
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                           DATA LAYER                                            │
+│  ┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐                │
+│  │   Lead Storage  │  │   Campaign      │  │   Configuration │                │
+│  │   (CSV Files)   │  │   History       │  │   (.env)        │                │
+│  └─────────────────┘  └─────────────────┘  └─────────────────┘                │
+│           │                     │                     │                        │
+│           └─────────────────────┼─────────────────────┘                        │
+│                                 │                                              │
+│                    ┌─────────────────┐                                        │
+│                    │   Data          │                                        │
+│                    │   Management    │                                        │
+│                    │   (Pandas)      │                                        │
+│                    └─────────────────┘                                        │
+└─────────────────────────────────────────────────────────────────────────────────┘
+                                    │
+                                    ▼
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                        INTEGRATION LAYER                                        │
+│  ┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐                │
+│  │   OpenWeather   │  │   DataUSA       │  │   OpenAI        │                │
+│  │   API           │  │   API           │  │   API           │                │
+│  └─────────────────┘  └─────────────────┘  └─────────────────┘                │
+│           │                     │                     │                        │
+│           └─────────────────────┼─────────────────────┘                        │
+│                                 │                                              │
+│  ┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐                │
+│  │   Walk Score    │  │   Gmail Web     │  │   SMTP Email    │                │
+│  │   API           │  │   Integration   │  │   Service       │                │
+│  └─────────────────┘  └─────────────────┘  └─────────────────┘                │
+│                                 │                                              │
+│                    ┌─────────────────┐                                        │
+│                    │   External      │                                        │
+│                    │   APIs          │                                        │
+│                    └─────────────────┘                                        │
+└─────────────────────────────────────────────────────────────────────────────────┘
+
+DATA FLOW ARCHITECTURE
+======================
+
+User Input → Data Enrichment → Scoring → Outreach → Storage → Analytics
+    │              │              │          │          │          │
+    ▼              ▼              ▼          ▼          ▼          ▼
+┌─────────┐  ┌─────────────┐  ┌─────────┐ ┌─────────┐ ┌─────────┐ ┌─────────┐
+│ Name    │  │ Weather     │  │ Rental  │ │ Gmail   │ │ CSV     │ │ Charts  │
+│ Company │  │ Demographics│  │ Score   │ │ Web     │ │ Files   │ │ Metrics │
+│ City    │  │ Walk Score  │  │ Income  │ │ Mail    │ │ History │ │ Reports │
+│ Email   │  │ AI Content  │  │ Weather │ │ SMTP    │ │ Backup  │ │ Trends  │
+└─────────┘  └─────────────┘  └─────────┘ └─────────┘ └─────────┘ └─────────┘
+
+SCORING ALGORITHM FLOW
+======================
+
+Input Data → Factor Analysis → Weighted Scoring → Category Assignment → Priority Ranking
+     │              │                │                  │                    │
+     ▼              ▼                ▼                  ▼                    ▼
+┌─────────┐  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐
+│ Lead    │  │ Rental %    │  │ 0-40 pts    │  │ High        │  │ Campaign    │
+│ Info    │  │ Income      │  │ 0-30 pts    │  │ Medium      │  │ Priority    │
+│         │  │ Walk Score  │  │ 0-20 pts    │  │ Low         │  │ Assignment  │
+│         │  │ Weather     │  │ 0-10 pts    │  │             │  │             │
+└─────────┘  └─────────────┘  └─────────────┘  └─────────────┘  └─────────────┘
+
+OUTREACH AUTOMATION FLOW
+========================
+
+Scored Lead → Message Generation → Channel Selection → Delivery → Tracking
+     │              │                    │              │          │
+     ▼              ▼                    ▼              ▼          ▼
+┌─────────┐  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐ ┌─────────────┐
+│ High    │  │ AI-powered  │  │ Gmail Web   │  │ Email       │ │ Open Rates  │
+│ Priority│  │ Personal    │  │ Mac Mail    │  │ Sent        │ │ Click Rates │
+│ Lead    │  │ Content     │  │ SMTP        │  │ Delivered   │ │ Responses   │
+│         │  │ Templates   │  │ Future: SMS │  │ Bounced     │ │ Conversions │
+└─────────┘  └─────────────┘  └─────────────┘  └─────────────┘ └─────────────┘
+
+TECHNOLOGY STACK
+================
+
+Frontend:     Streamlit (Python web framework)
+Backend:      Python (Data processing, API integration)
+Storage:      CSV files with Pandas (Data manipulation)
+APIs:         RESTful services (Weather, Demographics, AI, Email)
+Deployment:   Shell scripts (Environment setup, dependency management)
+Testing:      Unit tests, Integration tests
+Documentation: README, Inline comments, API documentation
+
+SCALABILITY ROADMAP
+===================
+
+Phase 1:     CSV Storage → PostgreSQL/MongoDB
+Phase 2:     Single App → Microservices Architecture
+Phase 3:     Local Deploy → Cloud Infrastructure (AWS/Azure)
+Phase 4:     Basic APIs → Advanced ML/AI Services
+Phase 5:     Web App → Mobile Apps (iOS/Android)
+Phase 6:     Standalone → CRM Integration (Salesforce, HubSpot)
+
+SECURITY ARCHITECTURE
+=====================
+
+API Keys:     Environment variables (.env files)
+Data Privacy: Local storage, no external data sharing
+Access Control: User authentication (future enhancement)
+Encryption:   HTTPS for all API communications
+Backup:       Automated CSV exports, version control
+Compliance:   GDPR-ready unsubscribe mechanisms
+
+

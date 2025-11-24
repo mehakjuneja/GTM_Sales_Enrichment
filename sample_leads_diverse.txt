@@ -1,0 +1,108 @@
+# Sample Leads for EliseAI Lead Enrichment App
+# These leads will produce diverse scores due to different city characteristics
+
+## HIGH SCORE LEADS (70-100) - High rental markets, good income, comfortable weather
+
+### Lead 1: San Francisco (Expected: 85-95)
+- Name: Jennifer Chen
+- Email: jennifer@bayareaproperties.com
+- Company: Bay Area Properties
+- Property Address: 123 Market Street
+- City: San Francisco
+- State: CA
+- Country: USA
+
+### Lead 2: Seattle (Expected: 80-90)
+- Name: Michael Rodriguez
+- Email: michael@seattleliving.com
+- Company: Seattle Living Properties
+- Property Address: 456 Pine Street
+- City: Seattle
+- State: WA
+- Country: USA
+
+### Lead 3: Austin (Expected: 80-90)
+- Name: Sarah Johnson
+- Email: sarah@austinrentals.com
+- Company: Austin Rentals LLC
+- Property Address: 789 South Lamar
+- City: Austin
+- State: TX
+- Country: USA
+
+## MEDIUM SCORE LEADS (40-70) - Moderate markets
+
+### Lead 4: Denver (Expected: 60-80)
+- Name: David Thompson
+- Email: david@milehighproperties.com
+- Company: Mile High Properties
+- Property Address: 321 16th Street
+- City: Denver
+- State: CO
+- Country: USA
+
+### Lead 5: Chicago (Expected: 60-75)
+- Name: Lisa Martinez
+- Email: lisa@windycityrentals.com
+- Company: Windy City Rentals
+- Property Address: 654 Michigan Avenue
+- City: Chicago
+- State: IL
+- Country: USA
+
+## LOWER SCORE LEADS (20-50) - Smaller markets or challenging conditions
+
+### Lead 6: Miami (Expected: 50-70)
+- Name: Carlos Rodriguez
+- Email: carlos@miamiproperties.com
+- Company: Miami Properties Group
+- Property Address: 987 Ocean Drive
+- City: Miami
+- State: FL
+- Country: USA
+
+### Lead 7: Phoenix (Expected: 40-60)
+- Name: Amanda Wilson
+- Email: amanda@phoenixliving.com
+- Company: Phoenix Living
+- Property Address: 147 Camelback Road
+- City: Phoenix
+- State: AZ
+- Country: USA
+
+### Lead 8: Detroit (Expected: 30-50)
+- Name: Robert Brown
+- Email: robert@motorcityproperties.com
+- Company: Motor City Properties
+- Property Address: 258 Woodward Avenue
+- City: Detroit
+- State: MI
+- Country: USA
+
+## INTERNATIONAL LEADS (Will use mock data)
+
+### Lead 9: Toronto (Expected: 60-80)
+- Name: Jennifer Smith
+- Email: jennifer@torontoproperties.ca
+- Company: Toronto Properties Inc
+- Property Address: 369 Bay Street
+- City: Toronto
+- State: ON
+- Country: Canada
+
+### Lead 10: London (Expected: 70-85)
+- Name: James Wilson
+- Email: james@londonliving.co.uk
+- Company: London Living Properties
+- Property Address: 741 Oxford Street
+- City: London
+- State: England
+- Country: UK
+
+## TESTING NOTES:
+- The app will use mock data for all these leads since no API keys are configured
+- Each city will produce different scores based on the mock data patterns
+- You should see varied scores from 30-95 range
+- High scores: San Francisco, Seattle, Austin
+- Medium scores: Denver, Chicago, Toronto
+- Lower scores: Miami, Phoenix, Detroit

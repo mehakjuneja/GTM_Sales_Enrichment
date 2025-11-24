@@ -1,0 +1,374 @@
+# Comprehensive Lead List for EliseAI Testing
+# Real property addresses and companies for testing lead enrichment
+
+## HIGH SCORE LEADS (Expected 75-95) - Premium Markets
+
+### San Francisco Bay Area
+1. **Name:** Jennifer Chen
+   **Email:** jennifer@bayareaproperties.com
+   **Company:** Bay Area Properties
+   **Property Address:** 123 Market Street
+   **City:** San Francisco
+   **State:** CA
+   **Country:** USA
+
+2. **Name:** Marcus Williams
+   **Email:** marcus@sfrentals.com
+   **Company:** SF Rentals Group
+   **Property Address:** 456 Castro Street
+   **City:** San Francisco
+   **State:** CA
+   **Country:** USA
+
+3. **Name:** Lisa Park
+   **Email:** lisa@oaklandproperties.com
+   **Company:** Oakland Properties LLC
+   **Property Address:** 789 Broadway
+   **City:** Oakland
+   **State:** CA
+   **Country:** USA
+
+### Seattle Area
+4. **Name:** Michael Rodriguez
+   **Email:** michael@seattleliving.com
+   **Company:** Seattle Living Properties
+   **Property Address:** 456 Pine Street
+   **City:** Seattle
+   **State:** WA
+   **Country:** USA
+
+5. **Name:** Amanda Foster
+   **Email:** amanda@bellevueproperties.com
+   **Company:** Bellevue Property Management
+   **Property Address:** 321 Bellevue Way NE
+   **City:** Bellevue
+   **State:** WA
+   **Country:** USA
+
+### New York Area
+6. **Name:** Robert Kim
+   **Email:** robert@manhattanrentals.com
+   **Company:** Manhattan Rentals Inc
+   **Property Address:** 789 5th Avenue
+   **City:** New York
+   **State:** NY
+   **Country:** USA
+
+7. **Name:** Sarah Johnson
+   **Email:** sarah@brooklynproperties.com
+   **Company:** Brooklyn Properties Group
+   **Property Address:** 456 Park Slope
+   **City:** Brooklyn
+   **State:** NY
+   **Country:** USA
+
+### Boston Area
+8. **Name:** David Thompson
+   **Email:** david@bostonrentals.com
+   **Company:** Boston Rental Solutions
+   **Property Address:** 123 Newbury Street
+   **City:** Boston
+   **State:** MA
+   **Country:** USA
+
+## MEDIUM-HIGH SCORE LEADS (Expected 60-80) - Growing Markets
+
+### Austin Area
+9. **Name:** Sarah Johnson
+   **Email:** sarah@austinrentals.com
+   **Company:** Austin Rentals LLC
+   **Property Address:** 789 South Lamar
+   **City:** Austin
+   **State:** TX
+   **Country:** USA
+
+10. **Name:** Carlos Martinez
+    **Email:** carlos@roundrockproperties.com
+    **Company:** Round Rock Properties
+    **Property Address:** 321 Main Street
+    **City:** Round Rock
+    **State:** TX
+    **Country:** USA
+
+### Denver Area
+11. **Name:** David Thompson
+    **Email:** david@milehighproperties.com
+    **Company:** Mile High Properties
+    **Property Address:** 321 16th Street
+    **City:** Denver
+    **State:** CO
+    **Country:** USA
+
+12. **Name:** Jennifer Lee
+    **Email:** jennifer@boulderrentals.com
+    **Company:** Boulder Rental Management
+    **Property Address:** 654 Pearl Street
+    **City:** Boulder
+    **State:** CO
+    **Country:** USA
+
+### Portland Area
+13. **Name:** Mark Wilson
+    **Email:** mark@portlandproperties.com
+    **Company:** Portland Property Solutions
+    **Property Address:** 987 Hawthorne Boulevard
+    **City:** Portland
+    **State:** OR
+    **Country:** USA
+
+### Nashville Area
+14. **Name:** Ashley Brown
+    **Email:** ashley@nashvilleliving.com
+    **Company:** Nashville Living Properties
+    **Property Address:** 147 Broadway
+    **City:** Nashville
+    **State:** TN
+    **Country:** USA
+
+## MEDIUM SCORE LEADS (Expected 40-70) - Established Markets
+
+### Chicago Area
+15. **Name:** Lisa Martinez
+    **Email:** lisa@windycityrentals.com
+    **Company:** Windy City Rentals
+    **Property Address:** 654 Michigan Avenue
+    **City:** Chicago
+    **State:** IL
+    **Country:** USA
+
+16. **Name:** James Anderson
+    **Email:** james@evanstonproperties.com
+    **Company:** Evanston Property Management
+    **Property Address:** 258 Sherman Avenue
+    **City:** Evanston
+    **State:** IL
+    **Country:** USA
+
+### Philadelphia Area
+17. **Name:** Maria Garcia
+    **Email:** maria@phillyrentals.com
+    **Company:** Philly Rentals LLC
+    **Property Address:** 369 Walnut Street
+    **City:** Philadelphia
+    **State:** PA
+    **Country:** USA
+
+### Atlanta Area
+18. **Name:** Kevin Johnson
+    **Email:** kevin@atlantaproperties.com
+    **Company:** Atlanta Property Group
+    **Property Address:** 741 Peachtree Street
+    **City:** Atlanta
+    **State:** GA
+    **Country:** USA
+
+### Dallas Area
+19. **Name:** Rachel Davis
+    **Email:** rachel@dallasrentals.com
+    **Company:** Dallas Rental Solutions
+    **Property Address:** 852 Main Street
+    **City:** Dallas
+    **State:** TX
+    **Country:** USA
+
+20. **Name:** Thomas Wilson
+    **Email:** thomas@planoapartments.com
+    **Company:** Plano Apartment Management
+    **Property Address:** 963 Legacy Drive
+    **City:** Plano
+    **State:** TX
+    **Country:** USA
+
+## LOWER-MEDIUM SCORE LEADS (Expected 30-60) - Challenging Markets
+
+### Miami Area
+21. **Name:** Carlos Rodriguez
+    **Email:** carlos@miamiproperties.com
+    **Company:** Miami Properties Group
+    **Property Address:** 987 Ocean Drive
+    **City:** Miami
+    **State:** FL
+    **Country:** USA
+
+22. **Name:** Sofia Martinez
+    **Email:** sofia@fortlauderdalerentals.com
+    **Company:** Fort Lauderdale Rentals
+    **Property Address:** 147 Las Olas Boulevard
+    **City:** Fort Lauderdale
+    **State:** FL
+    **Country:** USA
+
+### Phoenix Area
+23. **Name:** Amanda Wilson
+    **Email:** amanda@phoenixliving.com
+    **Company:** Phoenix Living
+    **Property Address:** 147 Camelback Road
+    **City:** Phoenix
+    **State:** AZ
+    **Country:** USA
+
+24. **Name:** Michael Chen
+    **Email:** michael@scottsdaleapartments.com
+    **Company:** Scottsdale Apartment Group
+    **Property Address:** 258 Scottsdale Road
+    **City:** Scottsdale
+    **State:** AZ
+    **Country:** USA
+
+### Las Vegas Area
+25. **Name:** Jennifer Smith
+    **Email:** jennifer@vegasproperties.com
+    **Company:** Vegas Property Management
+    **Property Address:** 369 Las Vegas Boulevard
+    **City:** Las Vegas
+    **State:** NV
+    **Country:** USA
+
+### Detroit Area
+26. **Name:** Robert Brown
+    **Email:** robert@motorcityproperties.com
+    **Company:** Motor City Properties
+    **Property Address:** 258 Woodward Avenue
+    **City:** Detroit
+    **State:** MI
+    **Country:** USA
+
+27. **Name:** Patricia Williams
+    **Email:** patricia@annarborrentals.com
+    **Company:** Ann Arbor Rentals
+    **Property Address:** 741 State Street
+    **City:** Ann Arbor
+    **State:** MI
+    **Country:** USA
+
+## LOWER SCORE LEADS (Expected 20-50) - Smaller Markets
+
+### Cleveland Area
+28. **Name:** John Davis
+    **Email:** john@clevelandproperties.com
+    **Company:** Cleveland Property Solutions
+    **Property Address:** 852 Euclid Avenue
+    **City:** Cleveland
+    **State:** OH
+    **Country:** USA
+
+### Pittsburgh Area
+29. **Name:** Mary Thompson
+    **Email:** mary@pittsburghrentals.com
+    **Company:** Pittsburgh Rental Group
+    **Property Address:** 963 Forbes Avenue
+    **City:** Pittsburgh
+    **State:** PA
+    **Country:** USA
+
+### Buffalo Area
+30. **Name:** Joseph Miller
+    **Email:** joseph@buffaloproperties.com
+    **Company:** Buffalo Properties LLC
+    **Property Address:** 147 Main Street
+    **City:** Buffalo
+    **State:** NY
+    **Country:** USA
+
+## INTERNATIONAL LEADS (Will use mock data)
+
+### Canada
+31. **Name:** Jennifer Smith
+    **Email:** jennifer@torontoproperties.ca
+    **Company:** Toronto Properties Inc
+    **Property Address:** 369 Bay Street
+    **City:** Toronto
+    **State:** ON
+    **Country:** Canada
+
+32. **Name:** Michael Johnson
+    **Email:** michael@vancouverrentals.ca
+    **Company:** Vancouver Rentals
+    **Property Address:** 741 Robson Street
+    **City:** Vancouver
+    **State:** BC
+    **Country:** Canada
+
+### United Kingdom
+33. **Name:** James Wilson
+    **Email:** james@londonliving.co.uk
+    **Company:** London Living Properties
+    **Property Address:** 741 Oxford Street
+    **City:** London
+    **State:** England
+    **Country:** UK
+
+34. **Name:** Sarah Brown
+    **Email:** sarah@manchesterproperties.co.uk
+    **Company:** Manchester Property Group
+    **Property Address:** 258 Deansgate
+    **City:** Manchester
+    **State:** England
+    **Country:** UK
+
+### Australia
+35. **Name:** David Taylor
+    **Email:** david@sydneyproperties.com.au
+    **Company:** Sydney Property Management
+    **Property Address:** 369 George Street
+    **City:** Sydney
+    **State:** NSW
+    **Country:** Australia
+
+## LUXURY PROPERTY LEADS (High-end markets)
+
+### Beverly Hills
+36. **Name:** Alexandra Rodriguez
+    **Email:** alexandra@beverlyhillsproperties.com
+    **Company:** Beverly Hills Property Group
+    **Property Address:** 123 Rodeo Drive
+    **City:** Beverly Hills
+    **State:** CA
+    **Country:** USA
+
+### Malibu
+37. **Name:** Christopher Lee
+    **Email:** chris@maliburentals.com
+    **Company:** Malibu Rental Solutions
+    **Property Address:** 456 Pacific Coast Highway
+    **City:** Malibu
+    **State:** CA
+    **Country:** USA
+
+### Aspen
+38. **Name:** Victoria Chen
+    **Email:** victoria@aspenproperties.com
+    **Company:** Aspen Property Management
+    **Property Address:** 789 Main Street
+    **City:** Aspen
+    **State:** CO
+    **Country:** USA
+
+## STUDENT HOUSING LEADS (High rental markets)
+
+### Ann Arbor (University of Michigan)
+39. **Name:** Brian Wilson
+    **Email:** brian@annarborstudenthousing.com
+    **Company:** Ann Arbor Student Housing
+    **Property Address:** 147 South University Avenue
+    **City:** Ann Arbor
+    **State:** MI
+    **Country:** USA
+
+### Berkeley (UC Berkeley)
+40. **Name:** Nicole Garcia
+    **Email:** nicole@berkeleystudentrentals.com
+    **Company:** Berkeley Student Rentals
+    **Property Address:** 258 Telegraph Avenue
+    **City:** Berkeley
+    **State:** CA
+    **Country:** USA
+
+## TESTING NOTES:
+- These leads represent diverse market conditions and will produce scores ranging from 20-95
+- All property addresses are real street names in their respective cities
+- Company names and emails are realistic for property management businesses
+- High scores: San Francisco, Seattle, New York, Boston
+- Medium scores: Austin, Denver, Portland, Nashville, Chicago
+- Lower scores: Miami, Phoenix, Las Vegas, Detroit, smaller cities
+- International leads will use mock data but test the app's handling of different countries
